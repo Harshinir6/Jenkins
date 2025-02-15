@@ -1,0 +1,3 @@
+Download maven plugin
+Clone maven git repo in jenkins under configure, so the data from git will be stored in local workspace
+install maven in manage jenkins-->tools
