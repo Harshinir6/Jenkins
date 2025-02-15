@@ -1,3 +1,11 @@
 Download maven plugin
 Clone maven git repo in jenkins under configure, so the data from git will be stored in local workspace
 install maven in manage jenkins-->tools
+
+
+***
+IMPORTANT
+When you try to intergarte with other tools, always generate a token and add in the other tool as either token or password {here create an token in github
+and add in jenkins under credentials as username password}
+Go for SSH only when you clone local
+***
